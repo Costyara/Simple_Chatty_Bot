@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Topics/Declaring functions/Vowel or not/out/
+/Topics/Declaring functions/Vowel or not/out/production/classes/
+/Topics/For loop and ranges/The product of numbers from a to b/out/
+/Topics/For loop and ranges/The product of numbers from a to b/out/production/classes/
+/Topics/For loop and ranges/The roots of equation/out/
+/Topics/For loop and ranges/The roots of equation/out/production/classes/
+/Topics/For loop and ranges/The sum of integers from a to b/out/
+/Topics/For loop and ranges/The sum of integers from a to b/out/production/classes/
+/Topics/Ranges/Within a range/out/
+/Topics/Ranges/Within a range/out/production/classes/
+/Topics/Working with strings/The number of tens/out/
+/Topics/Working with strings/The number of tens/out/production/classes/
